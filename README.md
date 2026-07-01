@@ -6,6 +6,7 @@ you can install using terminal:
 ```bash
 pip install opencv-python
 
+
 #then download haar_cascade  but what is this:
 asfa its like pre trained model that is trained on how to detect something its like an algorithm that can  and we can call it classier model 
 
